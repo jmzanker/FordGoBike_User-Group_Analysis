@@ -1,4 +1,4 @@
-# Ford GoBike User-Group Analysis
+# FordGoBike User-Group Analysis
 ## by Jochen Zanker
 
 
